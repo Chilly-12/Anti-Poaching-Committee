@@ -11,4 +11,5 @@ Group Members:
 | Andima     | Erastus   | 222083174     | Full Time |
 |Shithindi   | Lasarus   | 215103815     | Full Time |
 |Nghifikwa   | Rauna     | 222053461     | Full Time |
-|            |           |               | Full Time |
+|Ndeunyema   | Jerry     | 221087028     | Full Time |
+ 
